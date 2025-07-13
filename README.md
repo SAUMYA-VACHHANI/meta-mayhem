@@ -23,10 +23,11 @@ It uses **meta‑learning**: a model trained on hundreds of real datasets to lea
 ## ⚙ **Usage**
 1️⃣ Clone the repo & install requirements:
 ```bash
-pip install -r requirements.txt
+ pip install -r requirements.txt
+```
 
-2️⃣ Run the CLI on your dataset:
+2️⃣ Run the CLI tool on your dataset:
 ```bash
-python mayhem_tool.py --dataset datasets/your_dataset.csv
-
+ python mayhem_tool.py --dataset datasets/your_dataset.csv
+```
 
