@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_185",
+  "original_id": 185,
+  "name": "baseball",
+  "n_rows": 1340,
+  "n_columns": 17,
+  "default_target_attribute": "Hall_of_Fame",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/3622/baseball.arff",
+  "licence": "Public"
+}

@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_417",
+  "original_id": 417,
+  "name": "tsutumi",
+  "n_rows": 13,
+  "n_columns": 1143,
+  "default_target_attribute": "oz1143",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/52529/tsutumi.arff",
+  "licence": "Public"
+}

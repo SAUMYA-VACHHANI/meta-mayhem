@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_14",
+  "original_id": 14,
+  "name": "mfeat-fourier",
+  "n_rows": 2000,
+  "n_columns": 77,
+  "default_target_attribute": "class",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/14/mfeat-fourier.arff",
+  "licence": "Public"
+}

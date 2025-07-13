@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_18",
+  "original_id": 18,
+  "name": "mfeat-morphological",
+  "n_rows": 2000,
+  "n_columns": 7,
+  "default_target_attribute": "class",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/18/mfeat-morphological.arff",
+  "licence": "Public"
+}

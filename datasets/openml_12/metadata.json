@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_12",
+  "original_id": 12,
+  "name": "mfeat-factors",
+  "n_rows": 2000,
+  "n_columns": 217,
+  "default_target_attribute": "class",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/12/mfeat-factors.arff",
+  "licence": "Public"
+}

@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_183",
+  "original_id": 183,
+  "name": "abalone",
+  "n_rows": 4177,
+  "n_columns": 9,
+  "default_target_attribute": "Class_number_of_rings",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/3620/abalone.arff",
+  "licence": "Public"
+}

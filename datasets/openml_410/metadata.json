@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_410",
+  "original_id": 410,
+  "name": "carbolenes",
+  "n_rows": 37,
+  "n_columns": 1143,
+  "default_target_attribute": "oz1143",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/52522/carbolenes.arff",
+  "licence": "Public"
+}

@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_23",
+  "original_id": 23,
+  "name": "cmc",
+  "n_rows": 1473,
+  "n_columns": 10,
+  "default_target_attribute": "Contraceptive_method_used",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/23/cmc.arff",
+  "licence": "Public"
+}

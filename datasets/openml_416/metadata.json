@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_416",
+  "original_id": 416,
+  "name": "yprop_4_1",
+  "n_rows": 8885,
+  "n_columns": 252,
+  "default_target_attribute": "oz252",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/52528/yprop_4_1.arff",
+  "licence": "Public"
+}

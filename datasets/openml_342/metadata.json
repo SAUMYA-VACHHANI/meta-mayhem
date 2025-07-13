@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_342",
+  "original_id": 342,
+  "name": "squash-unstored",
+  "n_rows": 52,
+  "n_columns": 24,
+  "default_target_attribute": "Acceptability",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/52245/squash-unstored.arff",
+  "licence": "Public"
+}

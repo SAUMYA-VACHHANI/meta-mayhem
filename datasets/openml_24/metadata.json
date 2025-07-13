@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_24",
+  "original_id": 24,
+  "name": "mushroom",
+  "n_rows": 8124,
+  "n_columns": 23,
+  "default_target_attribute": "class",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/24/mushroom.arff",
+  "licence": "Public"
+}

@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_339",
+  "original_id": 339,
+  "name": "pasture",
+  "n_rows": 36,
+  "n_columns": 23,
+  "default_target_attribute": "pasture-prod-class",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/52242/pasture.arff",
+  "licence": "Public"
+}

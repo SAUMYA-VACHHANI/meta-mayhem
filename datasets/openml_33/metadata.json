@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_33",
+  "original_id": 33,
+  "name": "cylinder-bands",
+  "n_rows": 540,
+  "n_columns": 39,
+  "default_target_attribute": "band_type",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/33/cylinder-bands.arff",
+  "licence": "Public"
+}

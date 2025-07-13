@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_375",
+  "original_id": 375,
+  "name": "JapaneseVowels",
+  "n_rows": 9961,
+  "n_columns": 15,
+  "default_target_attribute": "speaker",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/52415/JapaneseVowels.arff",
+  "licence": "Public"
+}

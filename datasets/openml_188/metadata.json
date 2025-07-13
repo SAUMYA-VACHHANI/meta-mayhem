@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_188",
+  "original_id": 188,
+  "name": "eucalyptus",
+  "n_rows": 736,
+  "n_columns": 20,
+  "default_target_attribute": "Utility",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/3625/eucalyptus.arff",
+  "licence": "Public"
+}

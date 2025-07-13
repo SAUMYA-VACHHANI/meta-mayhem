@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_398",
+  "original_id": 398,
+  "name": "wap.wc",
+  "n_rows": 1560,
+  "n_columns": 8461,
+  "default_target_attribute": "CLASS_LABEL",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/52510/wap.wc.sparse_arff",
+  "licence": "Public"
+}

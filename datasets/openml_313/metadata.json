@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_313",
+  "original_id": 313,
+  "name": "spectrometer",
+  "n_rows": 531,
+  "n_columns": 102,
+  "default_target_attribute": "LRS-class",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/52217/spectrometer.arff",
+  "licence": "Public"
+}

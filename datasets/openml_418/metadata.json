@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_418",
+  "original_id": 418,
+  "name": "strupcz",
+  "n_rows": 34,
+  "n_columns": 1143,
+  "default_target_attribute": "oz1143",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/52530/strupcz.arff",
+  "licence": "Public"
+}

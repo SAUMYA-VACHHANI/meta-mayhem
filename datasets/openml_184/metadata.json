@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_184",
+  "original_id": 184,
+  "name": "kropt",
+  "n_rows": 28056,
+  "n_columns": 7,
+  "default_target_attribute": "game",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/3621/kropt.arff",
+  "licence": "Public"
+}

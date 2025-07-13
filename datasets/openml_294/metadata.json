@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_294",
+  "original_id": 294,
+  "name": "satellite_image",
+  "n_rows": 6435,
+  "n_columns": 37,
+  "default_target_attribute": "class",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/50720/satellite_image.arff",
+  "licence": "Public"
+}

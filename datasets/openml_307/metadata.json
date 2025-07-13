@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_307",
+  "original_id": 307,
+  "name": "vowel",
+  "n_rows": 990,
+  "n_columns": 13,
+  "default_target_attribute": "Class",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/52210/vowel.arff",
+  "licence": "Public"
+}

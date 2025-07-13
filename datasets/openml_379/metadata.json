@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_379",
+  "original_id": 379,
+  "name": "SyskillWebert-Goats",
+  "n_rows": 70,
+  "n_columns": 3,
+  "default_target_attribute": "class",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/1663742/SyskillWebert-Goats.arff",
+  "licence": "Public"
+}

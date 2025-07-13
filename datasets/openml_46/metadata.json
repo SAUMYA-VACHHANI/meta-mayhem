@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_46",
+  "original_id": 46,
+  "name": "splice",
+  "n_rows": 3190,
+  "n_columns": 61,
+  "default_target_attribute": "Class",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/46/splice.arff",
+  "licence": "Public"
+}

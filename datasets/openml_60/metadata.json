@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_60",
+  "original_id": 60,
+  "name": "waveform-5000",
+  "n_rows": 5000,
+  "n_columns": 41,
+  "default_target_attribute": "class",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/60/waveform-5000.arff",
+  "licence": "Public"
+}

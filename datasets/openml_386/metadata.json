@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_386",
+  "original_id": 386,
+  "name": "oh15.wc",
+  "n_rows": 913,
+  "n_columns": 3101,
+  "default_target_attribute": "CLASS_LABEL",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/52498/oh15.wc.sparse_arff",
+  "licence": "Public"
+}

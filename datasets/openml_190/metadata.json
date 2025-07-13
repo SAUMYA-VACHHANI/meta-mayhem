@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_190",
+  "original_id": 190,
+  "name": "mbagrade",
+  "n_rows": 61,
+  "n_columns": 3,
+  "default_target_attribute": "grade_point_average",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/3627/mbagrade.arff",
+  "licence": "Public"
+}

@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_334",
+  "original_id": 334,
+  "name": "monks-problems-2",
+  "n_rows": 601,
+  "n_columns": 7,
+  "default_target_attribute": "class",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/52237/monks-problems-2.arff",
+  "licence": "Public"
+}

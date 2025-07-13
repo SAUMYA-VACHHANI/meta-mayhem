@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_382",
+  "original_id": 382,
+  "name": "ipums_la_97-small",
+  "n_rows": 7019,
+  "n_columns": 61,
+  "default_target_attribute": "movedin",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/52422/ipums_la_97-small.arff",
+  "licence": "Public"
+}

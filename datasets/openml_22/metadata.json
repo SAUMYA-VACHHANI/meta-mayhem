@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_22",
+  "original_id": 22,
+  "name": "mfeat-zernike",
+  "n_rows": 2000,
+  "n_columns": 48,
+  "default_target_attribute": "class",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/22/mfeat-zernike.arff",
+  "licence": "Public"
+}

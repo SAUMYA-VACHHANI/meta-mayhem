@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_25",
+  "original_id": 25,
+  "name": "colic",
+  "n_rows": 368,
+  "n_columns": 27,
+  "default_target_attribute": "surgical_lesion",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/25/colic.arff",
+  "licence": "Public"
+}

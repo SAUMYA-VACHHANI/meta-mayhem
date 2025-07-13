@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_397",
+  "original_id": 397,
+  "name": "tr12.wc",
+  "n_rows": 313,
+  "n_columns": 5805,
+  "default_target_attribute": "CLASS_LABEL",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/52509/tr12.wc.sparse_arff",
+  "licence": "Public"
+}

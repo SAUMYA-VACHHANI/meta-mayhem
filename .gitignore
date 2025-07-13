@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.env/
+.venv/
+venv/
+ENV/
+env/
+*.egg-info/
+.eggs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# MacOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# Python cache
+*.cache
+*.log
+
+# Model & data artifacts
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+
+# Meta dataset artifacts
+datasets/meta_dataset.csv
+datasets/meta_features.csv
+mayhem_meta.csv
+
+# Saved trained models
+saved_model/
+
+# VSCode / editor settings
+.vscode/
+.idea/
+*.swp

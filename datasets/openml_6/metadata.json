@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_6",
+  "original_id": 6,
+  "name": "letter",
+  "n_rows": 20000,
+  "n_columns": 17,
+  "default_target_attribute": "class",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/6/letter.arff",
+  "licence": "Public"
+}

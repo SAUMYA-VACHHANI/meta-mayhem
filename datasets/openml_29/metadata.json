@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_29",
+  "original_id": 29,
+  "name": "credit-approval",
+  "n_rows": 690,
+  "n_columns": 16,
+  "default_target_attribute": "class",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/29/credit-approval.arff",
+  "licence": "Public"
+}

@@ -1,0 +1,11 @@
+{
+  "dataset_id": "openml_181",
+  "original_id": 181,
+  "name": "yeast",
+  "n_rows": 1484,
+  "n_columns": 9,
+  "default_target_attribute": "class_protein_localization",
+  "source": "OpenML",
+  "url": "https://api.openml.org/data/v1/download/3616/yeast.arff",
+  "licence": "Public"
+}
